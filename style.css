@@ -99,6 +99,7 @@ img {
 }
 .card h3 {
   padding-top: 8%;
+  font-size: 20px;
 }
 .card p {
   padding: 10%;
@@ -107,7 +108,7 @@ img {
   font-size: 18px;
 }
 
-h1 {
+h2 {
   font-size: 25px;
 }
 .main2 {
