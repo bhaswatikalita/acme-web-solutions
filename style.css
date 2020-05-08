@@ -73,19 +73,6 @@ button:hover {
   column-span: all;
   column-width: 100px;
 }  */
-
-img {
-  width: 100%;
-}
-
-.column {
-  float: left;
-  width: 18%;
-  padding: 10px;
-  padding-top: 3%;
-  padding-bottom: 1%;
-}
-
 .row {
   margin: 0 auto;
   display: flex;
@@ -93,14 +80,29 @@ img {
   background-color: #333;
 }
 
-.card {
-  text-align: center;
-  background-color: #f1f1f1;
-  color: #333;
+img {
+  width: 100%;
 }
 
+.column {
+  float: left;
+  width: 19%;
+  padding: 10px;
+  padding-top: 3%;
+  padding-bottom: 2%;
+}
+
+.card {
+  text-align: center;
+  background-color: whitesmoke;
+  color: #333;
+}
+.card h3 {
+  padding-top: 8%;
+}
 .card p {
-  padding: 8%;
+  padding: 10%;
+  padding-bottom: 15%;
 }
 
 h1 {
