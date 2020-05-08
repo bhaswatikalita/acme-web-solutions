@@ -1,0 +1,40 @@
+body {
+  /* box-sizing: border-box; */
+}
+
+img {
+  width: 100%;
+}
+
+.column {
+  float: left;
+  width: 12%;
+  padding: 0 10px;
+}
+
+.row {
+  margin: 0 auto;
+  display: flex;
+  /* position: absolute; */
+  /* top: 0;
+  left: 0; */
+  /* height: 100%;
+  width: 100%; */
+  justify-content: center;
+  background-color: blueviolet;
+}
+
+/* Clear floats after the columns 
+.row:after {
+  content: icon;
+  display: table;
+  clear: both;
+}*/
+.card {
+  text-align: center;
+  background-color: #f1f1f1;
+}
+
+.card p {
+  padding: 8%;
+}
