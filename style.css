@@ -109,14 +109,15 @@ img {
 }
 
 h2 {
-  font-size: 25px;
+  font-size: 27px;
+  line-height: 80px;
 }
 .main2 {
-  font-size: 18px;
+  font-size: 12px;
   text-align: center;
-  line-height: 50px;
-  padding-top: 3%;
-  padding-bottom: 1%;
+  line-height: 25px;
+  padding-top: 1%;
+  padding-bottom: 3%;
   color: #333;
   background-color: #fff;
 }
