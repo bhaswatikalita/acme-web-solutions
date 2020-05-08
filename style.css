@@ -49,7 +49,6 @@ button:hover {
 .main {
   display: grid;
   grid-template-columns: 1fr repeat(2, 35%) 1fr;
-  /* /*grid-template-columns: 1fr repeat(2, minmax(auto, 25em)) 1fr;  */
   background-color: #eaeaea;
   font-size: 18px;
   font-weight: normal;
@@ -67,12 +66,6 @@ button:hover {
   padding-left: 8%;
 }
 
-/* .main {
-  column-count: 2;
-  column-gap: 20px;
-  column-span: all;
-  column-width: 100px;
-}  */
 .row {
   margin: 0 auto;
   display: flex;
@@ -154,7 +147,7 @@ h2 {
 }
 
 h5 {
-  font-size: 27px;
+  font-size: 2px;
 }
 
 footer {
