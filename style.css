@@ -44,6 +44,7 @@ button:hover {
   padding: 20px;
   text-align: center;
   padding-top: 2%;
+  color: #333;
 }
 .main {
   display: grid;
@@ -54,6 +55,7 @@ button:hover {
   font-weight: normal;
   text-align: justify;
   padding-bottom: 2%;
+  color: #333;
 }
 
 .content-left {
